@@ -30,6 +30,7 @@ My Solution Analysis:
 
 <div align = "center">
 
-  
+  ![image](https://github.com/xo-azeem/Remove-Duplicates-From-Sorted-List-LeetCode/assets/171427226/ece1b9c2-76e2-42d6-9e5d-1b5491808c99)
+
   Time complexity: O(n).</br>Space complexity: O(1).
 </div>
